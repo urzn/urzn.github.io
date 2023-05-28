@@ -1,24 +1,17 @@
 ---
 layout: page
-title: About the Theme
+title: About me
 tags: [about, Jekyll, theme, moon]
 date: 2016-03-21
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center> Last Updated at 23.05.28.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## Education
+* Sungkyunkwan University [03.2018]-
+* GPA : 5.0 / 5.0
+* Coursework : Data Structure, Algorithm, Digital Logic Circuits, Discrete Mathematics, Linear Algebra, System Programs, Introduction to Computer Architectures, Computer Networks, Open Source Software Practice, Database, Introduction to Big Data Analytics
 
 ## Preview
 
